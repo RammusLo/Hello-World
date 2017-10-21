@@ -2,3 +2,6 @@
 
 Hello world.
 
+nano cat log
+clone cd
+add pwd
